@@ -1,0 +1,7 @@
+Before you start coding, make sure u cd into the 27_project folder, then type:
+	git pull
+
+Once you are done coding: 
+	git add . 
+	git commit -m "message here of what you did in the code"
+	git push 
