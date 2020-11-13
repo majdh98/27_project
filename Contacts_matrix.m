@@ -17,4 +17,4 @@ contact_tracing = contact_tracing./sum(contact_tracing, 2);
 graph = digraph(contact_tracing);
 p = plot(graph);
 p.Marker = 's';
-p.NodeColor = 'r';
+p.NodeColor = 'r'
